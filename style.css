@@ -127,7 +127,10 @@ body {
   display: block;
 }
 
-
+iframe{
+  width:340px;
+  height:400px;
+}
 
 
 
